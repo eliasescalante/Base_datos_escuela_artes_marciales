@@ -1,0 +1,11 @@
+Para la instalacion correcta de la base de datos correspondiente a la escuela de artes marciales "Shen xin ling", debes ingresar a la carpeta
+"archivos_sql" y luego debes ejecutar los siguientes script en el orden dado a continuación:
+
+1 - Creación de tablas: Crea la base de datos y sus correspondientes tablas.
+2 - Inserción de datos: Este archivo contiene los script para insertar los datos correspondientes a cada tabla.
+3 - Creación de vistas: Contiene los script para la creacion de 5 vistas de la base de datos.
+4 - Creación de funciones: Crea 3 funciones que corresponden a la base de datos.
+5 - Creación de procedimientos: Crea 2 procedimientos de la base de datos.
+6 - Creación de Triggers: Crea la tabla de auditoria y los 2 triggers para la base de datos.
+7 - DCL : Creación de usuarios y otorga los permisos correspondiente a cada uno con relación a la base de datos.
+8 - TCL : realiza un transacción, una sentencia de modificación hacia algunas tablas.
