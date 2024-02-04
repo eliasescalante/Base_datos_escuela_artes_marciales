@@ -2,7 +2,7 @@
 Proyecto final del curso de coder-house de SQL
 ----
 # Comision: 50060
-Alumno: Escalante Elias
+## Alumno: Escalante Elias
 ----
-Tutora: Carla Palermo
-Profesor: Camilo Redondo
+## Tutora: Carla Palermo
+## Profesor: Camilo Redondo
