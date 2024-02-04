@@ -9,3 +9,8 @@ Para la instalacion correcta de la base de datos correspondiente a la escuela de
 6 - Creación de Triggers: Crea la tabla de auditoria y los 2 triggers para la base de datos.
 7 - DCL : Creación de usuarios y otorga los permisos correspondiente a cada uno con relación a la base de datos.
 8 - TCL : realiza un transacción, una sentencia de modificación hacia algunas tablas.
+
+Se agrega un archivo adicional de respaldo, por cualquier eventualidad para realizar un backup de la base datos.
+En ese caso ejecutar el siguiente archivo:
+
+	- Backup_data_base
