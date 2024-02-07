@@ -13,4 +13,4 @@ Para la instalacion correcta de la base de datos correspondiente a la escuela de
 Se agrega un archivo adicional de respaldo, por cualquier eventualidad para realizar un backup de la base datos.
 En ese caso ejecutar el siguiente archivo:
 
-	- Backup_data_base
+	- backup_trabajo.sql
