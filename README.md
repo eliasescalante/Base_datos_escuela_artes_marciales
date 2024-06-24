@@ -7,8 +7,12 @@ Proyecto final del curso de coder-house de SQL
 ## Tutora: Carla Palermo
 ## Profesor: Camilo Redondo
 
+----
+
 - Se utilizo lenguaje SQL para al creacion total del proyecto.
 - Se utilizo MySQL
+
+----
 
 ![image](https://github.com/eliasescalante/proyecto_final_db/blob/main/Capture_base.JPG)
 
